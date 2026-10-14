@@ -1,1 +1,2 @@
  klasa linijka kodu notatek
+"druga linijka tekstu" 
